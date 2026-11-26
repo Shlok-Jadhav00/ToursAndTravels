@@ -208,7 +208,7 @@ ToursAndTravels/
 ### Step-by-Step Setup
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Shlok-Jadhav00/ToursAndTravels.git
+   git clone https://github.com/pAt070/ToursAndTravels.git
    cd ToursAndTravels
    ```
 
@@ -246,7 +246,8 @@ Alandi (D), Pune – 412105, Maharashtra, India.
 
 - **Project Guide:** Mrs. Pragati Deole
 - **Head of Department:** Dr. Santosh Warpe
-- **Repository Maintainer:** [@Shlok-Jadhav00](https://github.com/Shlok-Jadhav00)
+- **Repository Maintainer / Lead:** [@pAt070](https://github.com/pAt070)
+- **Co-Contributor:** [@Shlok-Jadhav00](https://github.com/Shlok-Jadhav00)
 
 ---
 
