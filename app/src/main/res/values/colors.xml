@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF2B2118</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Warm Travel Palette (Sunset Terracotta & Sand) -->
+    <color name="warm_bg">#FFF9F2</color>
+    <color name="warm_surface">#FFFFFF</color>
+    <color name="warm_surface_alt">#FCEEE6</color>
+    <color name="warm_primary">#D95D39</color>
+    <color name="warm_primary_dark">#B54424</color>
+    <color name="warm_accent">#E89B3C</color>
+    <color name="warm_teal">#2A7B76</color>
+    <color name="warm_text_primary">#2B2118</color>
+    <color name="warm_text_secondary">#6E5D4F</color>
+    <color name="warm_divider">#EFE4D8</color>
+    <color name="warm_danger">#C93B3B</color>
+</resources>

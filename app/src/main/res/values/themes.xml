@@ -1,0 +1,35 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ToursAndTravels" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/warm_primary</item>
+        <item name="colorPrimaryDark">@color/warm_primary_dark</item>
+        <item name="colorAccent">@color/warm_accent</item>
+        <item name="android:windowBackground">@color/warm_bg</item>
+        <item name="android:statusBarColor">@color/warm_primary</item>
+        <item name="android:navigationBarColor">@color/warm_bg</item>
+        <item name="android:windowOptOutEdgeToEdgeEnforcement" tools:targetApi="35">true</item>
+    </style>
+
+    <style name="Theme.ToursAndTravels" parent="Base.Theme.ToursAndTravels" />
+
+    <style name="Theme.ToursAndTravels.WithActionBar" parent="Theme.Material3.Light">
+        <item name="colorPrimary">@color/warm_primary</item>
+        <item name="colorPrimaryDark">@color/warm_primary_dark</item>
+        <item name="colorAccent">@color/warm_accent</item>
+        <item name="android:windowBackground">@color/warm_bg</item>
+        <item name="android:statusBarColor">@color/warm_primary_dark</item>
+        <item name="android:windowOptOutEdgeToEdgeEnforcement" tools:targetApi="35">true</item>
+        <item name="actionBarStyle">@style/WarmActionBarStyle</item>
+        <item name="colorControlNormal">@color/white</item>
+    </style>
+
+    <style name="WarmActionBarStyle" parent="Widget.Material3.ActionBar.Solid">
+        <item name="background">@color/warm_primary</item>
+        <item name="titleTextStyle">@style/WarmActionBarTitle</item>
+    </style>
+
+    <style name="WarmActionBarTitle" parent="TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>
